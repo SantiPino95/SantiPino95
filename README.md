@@ -7,13 +7,12 @@
 ---
 
 ## 🛠️ Tecnologías que manejo
-
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?logo=windows&logoColor=white)
-![LocalStorage](https://img.shields.io/badge/LocalStorage-informational)
+![HTML](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2196F3?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![LocalStorage](https://img.shields.io/badge/LocalStorage-4CAF50?style=for-the-badge)
 
 ---
 
