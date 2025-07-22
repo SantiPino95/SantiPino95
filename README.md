@@ -37,9 +37,14 @@ Proyecto educativo orientado a la gestión de alquileres de películas:
 
 ![SantiPino95's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantiPino95&show_icons=true&theme=tokyonight)
 
-## 📊 Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiPino95&layout=compact&theme=tokyonight)
----
+
+## 📊 Lenguajes usados en ObligatorioProgramacion1
+
+| Lenguaje   | Porcentaje aproximado |
+|------------|----------------------|
+| JavaScript | 60%                  |
+| HTML       | 25%                  |
+| CSS        | 15%                  |
 
 ## 📫 Contacto
 
