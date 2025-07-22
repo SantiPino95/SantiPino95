@@ -32,9 +32,11 @@ Proyecto educativo orientado a la gestión de alquileres de películas:
 ➡️ [🔗 Ver el proyecto en GitHub](https://github.com/SantiPino95/ObligatorioProgramacion1)
 
 ---
+## 📊 Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiPino95&layout=compact&theme=tokyonight)
 
 ## 📊 Mis estadísticas en GitHub
-
+---
 ![SantiPino95's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantiPino95&show_icons=true&theme=tokyonight)
 
 ---
