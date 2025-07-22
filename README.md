@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SantiPino95&color=blue)  
 🎓 Estudiante de **Analista Programador**.  
-💻 Apasionado por el desarrollo web, la programación y la administración de servidores.
+💻 Apasionado por la informatica, la programación , creacion de videojuegos y todo lo que tenga que ver con el entonro.
 
 ---
 
