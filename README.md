@@ -66,8 +66,8 @@ Proyecto educativo orientado a la gestión de alquileres de películas:
 
 ## 📫 Contacto
 
-- 📧 [Enviar email](mailto:santipino95@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario)  *(coloca tu LinkedIn real si querés)*
+- 📧 [Enviar email](mailto:santiagopino393@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario)  
 
 ---
 
